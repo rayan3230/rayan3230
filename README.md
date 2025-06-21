@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <br><br><br>
+  <br>
 </p>
 
 <h1 align="center">Rayan Mouzali 👋</h1>
