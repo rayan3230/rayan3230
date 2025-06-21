@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+👋+I'm+Rayan+Mouzali!;Full-stack+Developer+%7C+Student+@+USTHB;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 </p>
+<p align="center">
+  <br><br><br>
+</p>
 
 <h1 align="center">Rayan Mouzali 👋</h1>
 
