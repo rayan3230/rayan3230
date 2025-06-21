@@ -6,9 +6,6 @@
   />
 </p>
 
-<p align="center">
-  <br>
-</p>
 
 <h1 align="center">Rayan Mouzali 👋</h1>
 
